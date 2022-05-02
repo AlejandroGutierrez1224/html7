@@ -123,6 +123,10 @@
 	left: 1391px;
 	top: 61px;
 	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: home.html;
+	cursor: pointer;
 }
 #Rectangle_2 {
 	fill: rgba(13,83,111,1);
